@@ -1,0 +1,2 @@
+export PS1='%$COLUMNS>╡>%F{cyan}╔╡%F{red}[%n]%F{cyan} is at %F{yellow}[%~]%F{cyan}➾%F{green}[]%F{default}$PS1_GIT%F{cyan}${(l:COLUMNS::═:):-}%<<
+╚═╡%F{default}'
